@@ -1,6 +1,5 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQFOan67rg3q8Q/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1693761336583?e=2147483647&v=beta&t=xC6-mOhY1QCEddyWgWdcnZ_BiHz5IaSOSVU6Op3PIQ0)
 <h1 align="center">Hi 👋, I'm Faith </h1>
-<h3 align="center">A passionate data analyst</h3>
 
 Faith Olatunji is an enthusiastic and passionate data analyst who uses data to uncover insights that support informed decisions. Skilled in Excel, SQL, Power BI, and Tableau, I’m continuously building on my analytics knowledge to stay current with industry practices.
 - 🌱 I’m currently learning **Tableau, SQL**
